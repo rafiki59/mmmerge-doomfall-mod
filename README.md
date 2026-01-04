@@ -1,6 +1,20 @@
 # mmmerge-doomfall-mod
 Doomfall pushes the engine beyond its original design, giving players full control over difficulty. Scale challenge freely, raise monster density up to 1000, and spawn more than 50 unique additional bosses with custom skills and elite combinations.
 
+## Doomfall Gameplay Video
+
+[![Doomfall Gameplay](https://img.youtube.com/vi/nPMMGFCjjEQ/maxresdefault.jpg)](https://youtu.be/nPMMGFCjjEQ)
+
+
+## Quick Installation
+
+- Download **Might and Magic 8**
+- Download the base **Might and Magic Merge (MMMerge)**:  
+  https://1drv.ms/u/s!AklOx6zaOmQgbHB1-Avia15ruaI?e=H4IcBJ
+- Download **Doomfall** on Nexus Mods:  
+  https://www.nexusmods.com/mightandmagicviii/mods/23
+
+
 # Doomfall – Gameplay Overhaul for Might and Magic Merge (MMMerge)
 
 Welcome to the official repository for **Doomfall**, a major gameplay overhaul for **Might and Magic Merge (MMMerge)**.
@@ -29,7 +43,8 @@ Doomfall is the second chapter of the **Heroes of the Nexus** project and native
 - Engine-safe and multiplayer-compatible design
 - Fully modular systems — nothing is mandatory
 
----
+![Doomfall Boss System](https://heroesofthenexus.com/assets/images/doomfall-3.png)
+
 
 ## Something for Every Playstyle
 
@@ -83,7 +98,8 @@ The Boss setting controls the presence of **additional unique bosses**.
 
 You can keep difficulty and density fully vanilla and enable bosses only.
 
----
+![Doomfall Boss System](https://heroesofthenexus.com/assets/images/doomfall-4.png)
+
 
 ## Beginner Friendly by Design
 
