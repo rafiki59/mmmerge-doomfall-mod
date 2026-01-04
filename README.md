@@ -43,7 +43,7 @@ Doomfall is the second chapter of the **Heroes of the Nexus** project and native
 - Engine-safe and multiplayer-compatible design
 - Fully modular systems — nothing is mandatory
 
-![Doomfall Boss System](https://heroesofthenexus.com/assets/images/doomfall-3.png)
+![Doomfall Boss System](https://heroesofthenexus.com/assets/images/doomfall-6.png)
 
 
 ## Something for Every Playstyle
