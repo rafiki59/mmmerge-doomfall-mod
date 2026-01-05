@@ -178,6 +178,17 @@ Yes, but be warned: combining maximum difficulty, density, and bosses can result
 **Is Doomfall compatible with multiplayer?**  
 Yes. Doomfall is designed with multiplayer compatibility in mind. Future updates will address any remaining edge cases.
 
+**Does higher monster density reduce experience gain?** 
+
+Yes — but only for monsters spawned by Doomfall’s density system.
+
+Increasing monster density does not apply a global XP nerf. Doomfall carefully adjusts experience rewards only for monsters that are artificially generated to increase density.
+
+For example, at maximum density, Doomfall may spawn several additional monsters of the same type. In that situation, you would need to defeat around seven generated monsters to earn the same amount of experience normally granted by one standard monster at default density.
+
+Importantly, this adjustment applies exclusively to Doomfall-spawned enemies.
+Any monster that already existed on the map and was not created by Doomfall will always provide its full, original experience value.
+
 **Why are new classes included?**  
 The Extra Class Pack Mod is an independent module that integrates naturally with the base game, offering additional classes without forcing complex configuration.
 
